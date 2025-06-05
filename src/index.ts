@@ -1,6 +1,5 @@
 import { Command } from "commander";
 import { Crawler } from "./crawler/crawler.js";
-import { savePages } from "./utils/fs.js";
 
 const program = new Command();
 
@@ -21,11 +20,8 @@ program
     });
 
     console.log(`Starting crawl of ${options.url}`);
-    const pages = await crawler.crawl();
-    console.log(`Found ${pages.length} pages`);
-
-    await savePages(pages, options.output, options.url);
-    console.log(`Saved pages to ${options.output}`);
+    await crawler.crawl();
+    console.log(`Crawl complete. Output in ${options.output}`);
   });
 
 program.parse();
