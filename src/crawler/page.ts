@@ -119,7 +119,7 @@ function domToMarkdown($: cheerio.CheerioAPI, nodes: any[]): string {
         break;
       }
       case "br": {
-        out.push("");
+        out.push("  \\n");
         break;
       }
       case "table": {
@@ -146,7 +146,6 @@ function domToMarkdown($: cheerio.CheerioAPI, nodes: any[]): string {
         break;
       }
       default: {
-        // Inline or unknown: recurse, but don't force block separation
         if (node.children && node.children.length) {
           block = domToMarkdown($, node.children);
         }
@@ -155,13 +154,12 @@ function domToMarkdown($: cheerio.CheerioAPI, nodes: any[]): string {
     }
     if (block) {
       if (isBlockTag(tag)) {
-        out.push(block, ""); // Add empty string for double newline
+        out.push("\n\n", block, "\n\n");
       } else {
         out.push(block);
       }
     }
   }
-  // Join with single newline, then collapse 3+ newlines to 2
   return out
     .join("\n")
     .replace(/\n{3,}/g, "\n\n")
@@ -184,7 +182,7 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
 
     // Remove unwanted elements
     $(
-      "script, style, nav, footer, .header, .footer, .sidebar, .menu, .cart, .search, .social-share"
+      "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text"
     ).remove();
 
     // Get title
@@ -199,12 +197,21 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
     // Combine content
     const content = [title, mainContent, productDetails]
       .filter(Boolean)
-      .map(cleanText)
       .join("\n\n");
 
     // Get all links
     const links = $("a")
-      .map((_, el) => $(el).attr("href"))
+      .map((_, el) => {
+        let href = $(el).attr("href");
+        if (!href) return null;
+        // Remove trailing -%F0%9F%8C%B1 if present
+        href = href.replace(/-%F0%9F%8C%B1$/, "");
+        try {
+          return decodeURIComponent(href);
+        } catch {
+          return href;
+        }
+      })
       .get()
       .filter((href): href is string => !!href)
       .map((href) => normalizeUrl(href, baseUrl))
