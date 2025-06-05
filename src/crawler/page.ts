@@ -1,7 +1,9 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
+import type * as cheerioType from "cheerio";
 import { ScrapedPage } from "./types.js";
 import { URL } from "url";
+// @ts-ignore
 import { logger } from "../utils/logger.js";
 
 function normalizeUrl(url: string, baseUrl: string): string {
@@ -14,7 +16,11 @@ function normalizeUrl(url: string, baseUrl: string): string {
 }
 
 function cleanText(text: string): string {
-  return text.replace(/\s+/g, " ").replace(/\n+/g, "\n").trim();
+  return text
+    .replace(/\s+/g, " ")
+    .replace(/\n+/g, "\n")
+    .replace(/#{2,}\s+/g, "# ") // Fix double headers
+    .trim();
 }
 
 function extractProductDetails($: cheerio.CheerioAPI): string {
@@ -53,6 +59,123 @@ function extractProductDetails($: cheerio.CheerioAPI): string {
   return details.join("\n");
 }
 
+function isBlockTag(tag: string) {
+  return [
+    "div",
+    "p",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "ul",
+    "ol",
+    "li",
+    "table",
+    "tr",
+  ].includes(tag);
+}
+
+function domToMarkdown($: cheerio.CheerioAPI, nodes: any[]): string {
+  let out: string[] = [];
+  for (const node of nodes) {
+    if (node.type === "text") {
+      const text = cleanText(node.data || "");
+      if (text) out.push(text);
+      continue;
+    }
+    if (node.type !== "tag") continue;
+    const tag = node.tagName.toLowerCase();
+    let block = "";
+    switch (tag) {
+      case "h1":
+      case "h2":
+      case "h3":
+      case "h4":
+      case "h5":
+      case "h6": {
+        const level = parseInt(tag[1]);
+        const headerText = $(node).text().trim();
+        block = `#`.repeat(level) + ` ${cleanText(headerText)}`;
+        break;
+      }
+      case "ul":
+      case "ol": {
+        const items = $(node)
+          .children("li")
+          .map((_, li) => `- ${cleanText($(li).text())}`)
+          .get();
+        if (items.length) block = items.join("\n");
+        break;
+      }
+      case "li": {
+        block = `- ${cleanText($(node).text())}`;
+        break;
+      }
+      case "p": {
+        const text = $(node).text().trim();
+        if (text) block = cleanText(text);
+        break;
+      }
+      case "br": {
+        out.push("");
+        break;
+      }
+      case "table": {
+        const rows = $(node)
+          .find("tr")
+          .map((_, tr) =>
+            $(tr)
+              .find("td,th")
+              .map((_, td) => cleanText($(td).text()))
+              .get()
+              .join(" | ")
+          )
+          .get();
+        if (rows.length) block = rows.join("\n");
+        break;
+      }
+      case "div": {
+        block = node.children
+          ? node.children
+              .map((child: any) => domToMarkdown($, [child]))
+              .filter(Boolean)
+              .join("\n\n")
+          : "";
+        break;
+      }
+      default: {
+        // Inline or unknown: recurse, but don't force block separation
+        if (node.children && node.children.length) {
+          block = domToMarkdown($, node.children);
+        }
+        break;
+      }
+    }
+    if (block) {
+      if (isBlockTag(tag)) {
+        out.push(block, ""); // Add empty string for double newline
+      } else {
+        out.push(block);
+      }
+    }
+  }
+  // Join with single newline, then collapse 3+ newlines to 2
+  return out
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function extractContent($: cheerio.CheerioAPI): string {
+  const mainContent = $(
+    "main, article, .main-content, .content, #content, .product-content"
+  ).first();
+  if (!mainContent.length) return "";
+  return domToMarkdown($, mainContent[0].children);
+}
+
 export async function scrapePage(url: string): Promise<ScrapedPage> {
   try {
     const response = await axios.get(url);
@@ -67,12 +190,8 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
     // Get title
     const title = $("title").text().trim().replace(/\s+/g, " ");
 
-    // Get main content
-    const mainContent = $(
-      "main, article, .main-content, .content, #content, .product-content"
-    )
-      .text()
-      .trim();
+    // Get main content with headers
+    const mainContent = extractContent($);
 
     // Get product details if it's a product page
     const productDetails = extractProductDetails($);
