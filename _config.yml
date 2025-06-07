@@ -1,0 +1,20 @@
+title: KemoWay
+description: Documentation and guides
+baseurl: "/kemoway"
+url: "https://yourusername.github.io"
+
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore

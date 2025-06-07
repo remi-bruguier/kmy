@@ -1,9 +1,8 @@
-node_modules/
-dist/
-.env
 .DS_Store
+node_modules/
+.env
 *.log
-coverage/
-.idea/
 .vscode/
-output/ 
+.idea/
+dist/
+coverage/ 
