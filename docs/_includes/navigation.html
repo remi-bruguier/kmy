@@ -1,42 +1,160 @@
 <nav class="site-nav">
   <div class="nav-container">
     <a href="{{ site.baseurl }}/" class="nav-item">Home</a>
-    <a href="{{ site.baseurl }}/collections/all-e-bikes" class="nav-item"
-      >E-Bikes</a
-    >
-    <a href="{{ site.baseurl }}/pages/a-propos-de-nous" class="nav-item"
-      >About</a
-    >
-    <a href="{{ site.baseurl }}/pages/contact" class="nav-item">Contact</a>
-    <a href="{{ site.baseurl }}/blogs/kemoway-en-europe" class="nav-item"
-      >Blog</a
-    >
+
+    <div class="nav-section">
+      <div class="nav-section-title">Collections</div>
+      <a href="{{ site.baseurl }}/collections/all" class="nav-item">All</a>
+      <a href="{{ site.baseurl }}/collections/all-e-bikes" class="nav-item"
+        >All E-Bikes</a
+      >
+      <a
+        href="{{ site.baseurl }}/collections/le-meilleur-vente"
+        class="nav-item"
+        >Best Sellers</a
+      >
+      <a
+        href="{{ site.baseurl }}/collections/velo-cargo-electrique"
+        class="nav-item"
+        >Cargo E-Bikes</a
+      >
+      <a
+        href="{{ site.baseurl }}/collections/velo-electrique-urbain"
+        class="nav-item"
+        >Urban E-Bikes</a
+      >
+      <a href="{{ site.baseurl }}/collections/vtt-tout-terrain" class="nav-item"
+        >Mountain E-Bikes</a
+      >
+    </div>
+
+    <div class="nav-section">
+      <div class="nav-section-title">Products</div>
+      <a
+        href="{{ site.baseurl }}/products/kemoway-27-5-pouces-velo-electrique-k5r"
+        class="nav-item"
+        >K5R</a
+      >
+      <a
+        href="{{ site.baseurl }}/products/kemoway-velo-electrique-27-5-pouces-k5"
+        class="nav-item"
+        >K5</a
+      >
+      <a
+        href="{{ site.baseurl }}/products/kemoway-city-e-bike-k6s"
+        class="nav-item"
+        >K6S</a
+      >
+      <a
+        href="{{ site.baseurl }}/products/kemoway-20-pouces-e-bike-p7"
+        class="nav-item"
+        >P7</a
+      >
+      <a
+        href="{{ site.baseurl }}/products/kemoway-velo-electrique-27-5-pouces-k5s"
+        class="nav-item"
+        >K5S</a
+      >
+      <a
+        href="{{ site.baseurl }}/products/vtt-electrique-full-suspension-cobra"
+        class="nav-item"
+        >Cobra</a
+      >
+    </div>
+
+    <div class="nav-section">
+      <div class="nav-section-title">Pages</div>
+      <a href="{{ site.baseurl }}/pages/a-propos-de-nous" class="nav-item"
+        >About</a
+      >
+      <a href="{{ site.baseurl }}/pages/contact" class="nav-item">Contact</a>
+      <a href="{{ site.baseurl }}/pages/centre-de-service" class="nav-item"
+        >Service Center</a
+      >
+      <a href="{{ site.baseurl }}/pages/expedition" class="nav-item"
+        >Shipping</a
+      >
+      <a href="{{ site.baseurl }}/pages/garantie" class="nav-item">Warranty</a>
+      <a href="{{ site.baseurl }}/pages/termes-et-conditions" class="nav-item"
+        >Terms</a
+      >
+      <a href="{{ site.baseurl }}/pages/confidentialite" class="nav-item"
+        >Privacy</a
+      >
+    </div>
+
+    <div class="nav-section">
+      <div class="nav-section-title">Blog</div>
+      <a href="{{ site.baseurl }}/blogs/kemoway-en-europe" class="nav-item"
+        >All Posts</a
+      >
+      <a
+        href="{{ site.baseurl }}/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025"
+        class="nav-item"
+        >Top 10 E-Bikes 2025</a
+      >
+      <a
+        href="{{ site.baseurl }}/blogs/kemoway-en-europe/quels-sont-les-meilleurs-velos-electriques"
+        class="nav-item"
+        >Best E-Bikes</a
+      >
+      <a
+        href="{{ site.baseurl }}/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries"
+        class="nav-item"
+        >Samsung Batteries</a
+      >
+    </div>
+
+    <div class="nav-section">
+      <div class="nav-section-title">Account</div>
+      <a href="{{ site.baseurl }}/account/login" class="nav-item">Login</a>
+      <a href="{{ site.baseurl }}/account/register" class="nav-item"
+        >Register</a
+      >
+    </div>
   </div>
 </nav>
 
 <style>
   .site-nav {
     background: #f8f9fa;
-    padding: 1rem 0;
-    margin-bottom: 2rem;
+    padding: 1rem;
+    margin-right: 2rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    position: fixed;
+    height: 100vh;
+    overflow-y: auto;
   }
 
   .nav-container {
-    max-width: 1200px;
-    margin: 0 auto;
     display: flex;
-    gap: 2rem;
-    padding: 0 1rem;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .nav-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .nav-section-title {
+    font-weight: 600;
+    color: #666;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    text-transform: uppercase;
   }
 
   .nav-item {
     color: #333;
     text-decoration: none;
     font-weight: 500;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem;
     border-radius: 4px;
     transition: background-color 0.2s;
+    font-size: 0.9rem;
   }
 
   .nav-item:hover {
