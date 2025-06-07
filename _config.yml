@@ -3,13 +3,18 @@ description: Documentation and guides
 baseurl: "/kemoway"
 url: "https://yourusername.github.io"
 
-theme: jekyll-theme-minimal
-
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Layout settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing
 exclude:
