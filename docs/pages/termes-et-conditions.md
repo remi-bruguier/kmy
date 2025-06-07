@@ -1,6 +1,6 @@
 # Termes et conditions – Kemoway France
 
-Source URL: https://kemoway.fr/pages/termes-et-conditions
+Source URL: [https://kemoway.fr/pages/termes-et-conditions](https://kemoway.fr/pages/termes-et-conditions)
 
 ## Content
 

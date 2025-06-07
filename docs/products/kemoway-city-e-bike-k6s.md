@@ -1,6 +1,6 @@
 # Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
 
-Source URL: https://kemoway.fr/products/kemoway-city-e-bike-k6s
+Source URL: [https://kemoway.fr/products/kemoway-city-e-bike-k6s](https://kemoway.fr/products/kemoway-city-e-bike-k6s)
 
 ## Content
 

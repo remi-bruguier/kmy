@@ -1,6 +1,6 @@
 # Affiliate Marketing – Kemoway France
 
-Source URL: https://kemoway.fr/pages/affiliate-marketing
+Source URL: [https://kemoway.fr/pages/affiliate-marketing](https://kemoway.fr/pages/affiliate-marketing)
 
 ## Content
 

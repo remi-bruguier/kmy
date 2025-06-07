@@ -1,6 +1,6 @@
 # Garantie – Kemoway France
 
-Source URL: https://kemoway.fr/pages/garantie
+Source URL: [https://kemoway.fr/pages/garantie](https://kemoway.fr/pages/garantie)
 
 ## Content
 

@@ -1,6 +1,6 @@
 # Les 10 meilleurs VAE 2025 – Kemoway France
 
-Source URL: https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025
+Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025](https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025)
 
 ## Content
 

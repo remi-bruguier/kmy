@@ -1,14 +1,10 @@
 # VTT électrique tout suspendu – Kemoway France
 
-Source URL: https://kemoway.fr/collections/vtt-tout-terrain
+Source URL: [https://kemoway.fr/collections/vtt-tout-terrain](https://kemoway.fr/collections/vtt-tout-terrain)
 
 ## Content
 
 VTT électrique tout suspendu – Kemoway France
-
-- 
-- Collections
-- VTT électrique tout suspendu
 
 # VTT électrique tout suspendu
 

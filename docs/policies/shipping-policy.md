@@ -1,6 +1,6 @@
 # Politique d’expédition – Kemoway France
 
-Source URL: https://kemoway.fr/policies/shipping-policy
+Source URL: [https://kemoway.fr/policies/shipping-policy](https://kemoway.fr/policies/shipping-policy)
 
 ## Content
 

@@ -182,7 +182,7 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
 
     // Remove unwanted elements
     $(
-      "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text"
+      "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text, .breadcrumb"
     ).remove();
 
     // Get title

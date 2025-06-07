@@ -1,14 +1,10 @@
 # Kemoway Vélo électrique Longtail E-Bike – Kemoway France
 
-Source URL: https://kemoway.fr/collections/velo-cargo-electrique
+Source URL: [https://kemoway.fr/collections/velo-cargo-electrique](https://kemoway.fr/collections/velo-cargo-electrique)
 
 ## Content
 
 Kemoway Vélo électrique Longtail E-Bike – Kemoway France
-
-- 
-- Collections
-- Vélo cargo électrique
 
 # Vélo cargo électrique
 

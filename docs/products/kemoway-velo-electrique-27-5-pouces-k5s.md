@@ -1,6 +1,6 @@
 # Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
 
-Source URL: https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s
+Source URL: [https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s)
 
 ## Content
 

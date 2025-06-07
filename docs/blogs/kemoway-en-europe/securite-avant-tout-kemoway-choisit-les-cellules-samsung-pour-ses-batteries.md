@@ -1,6 +1,6 @@
 # Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses ba – Kemoway France
 
-Source URL: https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries
+Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries](https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries)
 
 ## Content
 
