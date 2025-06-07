@@ -1,8 +1,8 @@
 # Affiliate Marketing – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/affiliate-marketing](https://kemoway.fr/pages/affiliate-marketing)
+来源网址：[https://kemoway.fr/pages/affiliate-marketing](https://kemoway.fr/pages/affiliate-marketing)
 
-## Content
+## 内容
 
 Affiliate Marketing – Kemoway France
 
@@ -59,7 +59,3 @@ Obtenez votre code promo exclusif et partagez votre lien de parrainage avec tout
 Troisième
 
 Lorsqu'un client commande via votre lien de parrainage, vous recevez une commission de 5% sur la vente.
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

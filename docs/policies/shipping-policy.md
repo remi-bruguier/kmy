@@ -1,8 +1,8 @@
 # Politique d’expédition – Kemoway France
 
-Source URL: [https://kemoway.fr/policies/shipping-policy](https://kemoway.fr/policies/shipping-policy)
+来源网址：[https://kemoway.fr/policies/shipping-policy](https://kemoway.fr/policies/shipping-policy)
 
-## Content
+## 内容
 
 Politique d’expédition – Kemoway France
 
@@ -25,7 +25,3 @@ Délai de préparation de la commande :Une fois commandé, le produit sera expé
 \n
 
 Heure d'arrivée du colis :Allemagne 3-5 jours ouvrablesItalie, France et Pays-Bas 3 à 7 jours ouvrables
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

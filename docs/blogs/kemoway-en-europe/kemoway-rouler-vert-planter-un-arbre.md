@@ -1,8 +1,8 @@
 # Kemoway : Rouler Vert, Planter un Arbre – Kemoway France
 
-Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/kemoway-rouler-vert-planter-un-arbre](https://kemoway.fr/blogs/kemoway-en-europe/kemoway-rouler-vert-planter-un-arbre)
+来源网址：[https://kemoway.fr/blogs/kemoway-en-europe/kemoway-rouler-vert-planter-un-arbre](https://kemoway.fr/blogs/kemoway-en-europe/kemoway-rouler-vert-planter-un-arbre)
 
-## Content
+## 内容
 
 Kemoway : Rouler Vert, Planter un Arbre – Kemoway France
 
@@ -70,7 +70,3 @@ Partager
 
 - 07 avril, 2025par AutorKemoway Kemoway Impressionne au Salon de Düsseldorf
 - 07 avril, 2025par AutorKemoway Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses batteries
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

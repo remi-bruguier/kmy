@@ -1,8 +1,8 @@
 # Kemoway K5 - Vélo Électrique avec Batterie Samsung 720Wh – Kemoway France
 
-Source URL: [https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5)
+来源网址：[https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5)
 
-## Content
+## 内容
 
 Kemoway K5 - Vélo Électrique avec Batterie Samsung 720Wh – Kemoway France
 
@@ -432,6 +432,3 @@ Envoyer
 Envoyer
 
 **Price:** €1.999,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

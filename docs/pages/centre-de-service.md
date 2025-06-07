@@ -1,8 +1,8 @@
 # Centre de Service – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/centre-de-service](https://kemoway.fr/pages/centre-de-service)
+来源网址：[https://kemoway.fr/pages/centre-de-service](https://kemoway.fr/pages/centre-de-service)
 
-## Content
+## 内容
 
 Centre de Service – Kemoway France
 
@@ -34,7 +34,3 @@ Search
 - Map
 
 \n
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

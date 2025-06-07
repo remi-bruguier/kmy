@@ -1,8 +1,8 @@
 # Vélo électrique urbain – Kemoway France
 
-Source URL: [https://kemoway.fr/collections/velo-electrique-urbain](https://kemoway.fr/collections/velo-electrique-urbain)
+来源网址：[https://kemoway.fr/collections/velo-electrique-urbain](https://kemoway.fr/collections/velo-electrique-urbain)
 
-## Content
+## 内容
 
 Vélo électrique urbain – Kemoway France
 
@@ -106,6 +106,3 @@ Poids net
 Couple
 
 **Price:** €1.399,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

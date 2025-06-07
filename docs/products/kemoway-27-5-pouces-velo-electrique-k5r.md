@@ -1,8 +1,8 @@
 # Kemoway K5R vélo électrique, Samsung 720Wh, 170 km d'autonomie – Kemoway France
 
-Source URL: [https://kemoway.fr/products/kemoway-27-5-pouces-velo-electrique-k5r](https://kemoway.fr/products/kemoway-27-5-pouces-velo-electrique-k5r)
+来源网址：[https://kemoway.fr/products/kemoway-27-5-pouces-velo-electrique-k5r](https://kemoway.fr/products/kemoway-27-5-pouces-velo-electrique-k5r)
 
-## Content
+## 内容
 
 Kemoway K5R vélo électrique, Samsung 720Wh, 170 km d'autonomie – Kemoway France
 
@@ -425,6 +425,3 @@ Envoyer
 Envoyer
 
 **Price:** €1.399,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

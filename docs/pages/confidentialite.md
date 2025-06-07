@@ -1,8 +1,8 @@
 # Confidentialité – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/confidentialite](https://kemoway.fr/pages/confidentialite)
+来源网址：[https://kemoway.fr/pages/confidentialite](https://kemoway.fr/pages/confidentialite)
 
-## Content
+## 内容
 
 Confidentialité – Kemoway France
 
@@ -153,7 +153,3 @@ Veuillez noter qu’en raison de l’absence d’entente cohérente au sein du s
 # Changements
 
 Nous pouvons mettre à jour cette politique de confidentialité de temps à autre afin de refléter, par exemple, des changements dans nos pratiques ou pour d'autres raisons opérationnelles, juridiques ou réglementaires.Contactez-nousPour plus d'informations sur nos pratiques de confidentialité, si vous avez des questions ou si vous souhaitez déposer une plainte, veuillez nous contacter par e-mail à service@kemoway.fr ou par courrier en utilisant les coordonnées fournies ci-dessous :puissance de yoseObjet : Responsable de la conformité à la vie privée
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

@@ -1,8 +1,8 @@
 # VTT Électrique Cobra Tout-Terrain - Moteur 110Nm, Shimano 10V – Kemoway France
 
-Source URL: [https://kemoway.fr/products/vtt-electrique-full-suspension-cobra](https://kemoway.fr/products/vtt-electrique-full-suspension-cobra)
+来源网址：[https://kemoway.fr/products/vtt-electrique-full-suspension-cobra](https://kemoway.fr/products/vtt-electrique-full-suspension-cobra)
 
-## Content
+## 内容
 
 VTT Électrique Cobra Tout-Terrain - Moteur 110Nm, Shimano 10V – Kemoway France
 
@@ -356,6 +356,3 @@ Envoyer
 
 **Price:** Prix promotionnel€2.399,00Prix habituel
     €2.999,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

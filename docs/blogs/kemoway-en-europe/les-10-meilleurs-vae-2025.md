@@ -1,8 +1,8 @@
 # Les 10 meilleurs VAE 2025 – Kemoway France
 
-Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025](https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025)
+来源网址：[https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025](https://kemoway.fr/blogs/kemoway-en-europe/les-10-meilleurs-vae-2025)
 
-## Content
+## 内容
 
 Les 10 meilleurs VAE 2025 – Kemoway France
 
@@ -105,7 +105,3 @@ Partager
 0 commentaires
 
 - 29 mai, 2025par AutorKemoway Quels sont les meilleurs vélos électriques
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

@@ -1,8 +1,8 @@
 # Vélo Cargo Électrique Kemoway P7- Batterie Samsung 720Wh, Moteur 110Nm – Kemoway France
 
-Source URL: [https://kemoway.fr/products/kemoway-20-pouces-e-bike-p7](https://kemoway.fr/products/kemoway-20-pouces-e-bike-p7)
+来源网址：[https://kemoway.fr/products/kemoway-20-pouces-e-bike-p7](https://kemoway.fr/products/kemoway-20-pouces-e-bike-p7)
 
-## Content
+## 内容
 
 Vélo Cargo Électrique Kemoway P7- Batterie Samsung 720Wh, Moteur 110Nm – Kemoway France
 
@@ -424,6 +424,3 @@ Envoyer
 Envoyer
 
 **Price:** €2.299,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

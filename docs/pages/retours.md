@@ -1,8 +1,8 @@
 # Retours – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/retours](https://kemoway.fr/pages/retours)
+来源网址：[https://kemoway.fr/pages/retours](https://kemoway.fr/pages/retours)
 
-## Content
+## 内容
 
 Retours – Kemoway France
 
@@ -25,7 +25,3 @@ Raisons des retours gratuits
 2. S'il y a un problème de qualité grave dans les 30 jours suivant la commande, qui entraîne une défaillance du produit et ne peut pas être résolu par un service à distance, nous pouvons vous fournir une étiquette de retour.
 
 3. Si vous avez besoin d'un retour gratuit, veuillez nous contacter pour obtenir et utiliser l'étiquette de retour.
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

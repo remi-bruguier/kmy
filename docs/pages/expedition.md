@@ -1,8 +1,8 @@
 # Expédition – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/expedition](https://kemoway.fr/pages/expedition)
+来源网址：[https://kemoway.fr/pages/expedition](https://kemoway.fr/pages/expedition)
 
-## Content
+## 内容
 
 Expédition – Kemoway France
 
@@ -17,7 +17,3 @@ Mode de livraison :Vélos électriques expédiés par DHL, DPD, DSV
 Délai de préparation de la commande :Une fois commandé, le produit sera expédié sous 1 à 2 jours ouvrables
 
 Heure d'arrivée du colis :Comptez 3-5 jours pour le recevoir chez vous.
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

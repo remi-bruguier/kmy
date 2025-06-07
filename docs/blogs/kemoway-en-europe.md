@@ -1,8 +1,8 @@
 # Kemoway en Europe – Kemoway France
 
-Source URL: [https://kemoway.fr/blogs/kemoway-en-europe](https://kemoway.fr/blogs/kemoway-en-europe)
+来源网址：[https://kemoway.fr/blogs/kemoway-en-europe](https://kemoway.fr/blogs/kemoway-en-europe)
 
-## Content
+## 内容
 
 Kemoway en Europe – Kemoway France
 
@@ -52,7 +52,3 @@ Kemoway Impressionne au Salon de Düsseldorf
 Kemoway Impressionne au Salon de Düsseldorf : Un Fort Intérêt des Distributeurs et Partenaires Du 29/03 au 31/03, Kemoway a présenté ses vélos électriques innovants au Salon du vélo à Düsseldorf – et la réponse a été exceptionnelle ! Ce...
 
 Plus
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

@@ -1,8 +1,8 @@
 # Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
 
-Source URL: [https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s)
+来源网址：[https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s)
 
-## Content
+## 内容
 
 Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
 
@@ -356,6 +356,3 @@ Envoyer
 Envoyer
 
 **Price:** €2.550,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

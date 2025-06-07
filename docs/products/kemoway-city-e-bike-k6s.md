@@ -1,8 +1,8 @@
 # Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
 
-Source URL: [https://kemoway.fr/products/kemoway-city-e-bike-k6s](https://kemoway.fr/products/kemoway-city-e-bike-k6s)
+来源网址：[https://kemoway.fr/products/kemoway-city-e-bike-k6s](https://kemoway.fr/products/kemoway-city-e-bike-k6s)
 
-## Content
+## 内容
 
 Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
 
@@ -398,6 +398,3 @@ Envoyer
 
 **Price:** Prix promotionnel€1.599,00Prix habituel
     €1.999,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

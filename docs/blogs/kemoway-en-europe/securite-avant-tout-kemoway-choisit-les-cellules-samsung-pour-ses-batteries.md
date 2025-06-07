@@ -1,8 +1,8 @@
 # Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses ba – Kemoway France
 
-Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries](https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries)
+来源网址：[https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries](https://kemoway.fr/blogs/kemoway-en-europe/securite-avant-tout-kemoway-choisit-les-cellules-samsung-pour-ses-batteries)
 
-## Content
+## 内容
 
 Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses ba – Kemoway France
 
@@ -56,7 +56,3 @@ Partager
 
 - 07 avril, 2025par AutorKemoway Kemoway : Rouler Vert, Planter un Arbre 🌱
 - 29 mai, 2025par AutorKemoway Quels sont les meilleurs vélos électriques
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

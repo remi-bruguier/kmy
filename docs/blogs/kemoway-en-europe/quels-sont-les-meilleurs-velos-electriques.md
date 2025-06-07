@@ -1,8 +1,8 @@
 # Quels sont les meilleurs vélos électriques – Kemoway France
 
-Source URL: [https://kemoway.fr/blogs/kemoway-en-europe/quels-sont-les-meilleurs-velos-electriques](https://kemoway.fr/blogs/kemoway-en-europe/quels-sont-les-meilleurs-velos-electriques)
+来源网址：[https://kemoway.fr/blogs/kemoway-en-europe/quels-sont-les-meilleurs-velos-electriques](https://kemoway.fr/blogs/kemoway-en-europe/quels-sont-les-meilleurs-velos-electriques)
 
-## Content
+## 内容
 
 Quels sont les meilleurs vélos électriques – Kemoway France
 
@@ -134,7 +134,3 @@ Partager
 
 - 07 avril, 2025par AutorKemoway Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses batteries
 - 29 mai, 2025par AutorKemoway Les 10 meilleurs VAE 2025
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

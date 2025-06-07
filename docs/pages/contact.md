@@ -1,8 +1,8 @@
 # Contact – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/contact](https://kemoway.fr/pages/contact)
+来源网址：[https://kemoway.fr/pages/contact](https://kemoway.fr/pages/contact)
 
-## Content
+## 内容
 
 Contact – Kemoway France
 
@@ -33,7 +33,3 @@ Ce site est protégé par hCaptcha, et la Politique de confidentialité et les C
 - Emailservice@kemoway.fr
 - Téléphone+49 17648094939
 - tempsEn semaine de 8h à 17h
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

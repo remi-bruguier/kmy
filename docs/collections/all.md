@@ -1,8 +1,8 @@
 # Produits – Kemoway France
 
-Source URL: [https://kemoway.fr/collections/all](https://kemoway.fr/collections/all)
+来源网址：[https://kemoway.fr/collections/all](https://kemoway.fr/collections/all)
 
-## Content
+## 内容
 
 Produits – Kemoway France
 
@@ -192,6 +192,3 @@ Poids net
 Couple
 
 **Price:** €1.999,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

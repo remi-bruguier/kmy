@@ -1,8 +1,8 @@
 # Termes et conditions – Kemoway France
 
-Source URL: [https://kemoway.fr/pages/termes-et-conditions](https://kemoway.fr/pages/termes-et-conditions)
+来源网址：[https://kemoway.fr/pages/termes-et-conditions](https://kemoway.fr/pages/termes-et-conditions)
 
-## Content
+## 内容
 
 Termes et conditions – Kemoway France
 
@@ -39,7 +39,3 @@ Ce site peut contenir certaines informations historiques. Les informations histo
 SECTION 20 - CONTACT INFORMATIONMICROS INNOVATION TECHNOLOGY LTDGROVE HINDLEY GREEN WIGAN ANGLETERRE. (CECI N'EST PAS UNE ADRESSE DE RETOUR)
 
 Heures: Du lundi au samedi de 8h00 à 17h00E-mail: service@kemoway.fr
-
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

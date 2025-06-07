@@ -1,8 +1,8 @@
 # Kemoway Vélo électrique Longtail E-Bike – Kemoway France
 
-Source URL: [https://kemoway.fr/collections/velo-cargo-electrique](https://kemoway.fr/collections/velo-cargo-electrique)
+来源网址：[https://kemoway.fr/collections/velo-cargo-electrique](https://kemoway.fr/collections/velo-cargo-electrique)
 
-## Content
+## 内容
 
 Kemoway Vélo électrique Longtail E-Bike – Kemoway France
 
@@ -37,6 +37,3 @@ Poids net
 Couple
 
 **Price:** €2.299,00
-
-**Description:**
-Batterie Samsung 720 Wh & Moteur 55 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mBatterie Samsung 720 Wh & Moteur 110 N·mMoteur 110 N·m & Shimano 10 vitessesBatterie Samsung 720 Wh & Moteur 110 N·m

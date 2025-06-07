@@ -13,7 +13,7 @@ export async function savePage(
   if (!relativePath) relativePath = "index";
   const outputPath = path.join(outputDir, `${relativePath}.md`);
   await fs.ensureDir(path.dirname(outputPath));
-  const markdown = `# ${title}\n\nSource URL: [${url}](${url})\n\n## Content\n\n${content}\n`;
+  const markdown = `# ${title}\n\n来源网址：[${url}](${url})\n\n## 内容\n\n${content}\n`;
   await fs.writeFile(outputPath, markdown);
 }
 
