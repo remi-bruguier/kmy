@@ -50,8 +50,7 @@ Impact: http://app.impact.com/advertiser-advertiser-info/Kemoway-France.brand
 
 Flexoffers: https://publisherprobeta.flexoffers.com/advertisers/240849
 
-<div class="old-text">
-  <span class="removed">Kemoway Affiliate Program with English
+Kemoway Affiliate Program with English
 
 Kemoway is a professional European electric bicycle manufacturer and seller. We have 14 years of experience in electric bicycle development.
 
@@ -63,28 +62,21 @@ Of course, you can also choose to join our program through impact and Flexoffers
 
 Impact: http://app.impact.com/advertiser-advertiser-info/Kemoway-France.brand
 
-Flexoffers: https://publisherprobeta.flexoffers.com/advertisers/240849</span>
-</div>
-
-<div class="new-text">
-  <span class="added">## Avantages du programme
-
-✓ Commission de 5% sur chaque vente  
-✓ Liens de parrainage personnalisés  
-✓ Codes promo exclusifs  
-✓ Suivi des performances en temps réel  
-✓ Paiements réguliers et fiables</span>
-</div>
+Flexoffers: https://publisherprobeta.flexoffers.com/advertisers/240849
 
 ## Contribuer à la reforestation
 
-~~Voici une version parfaitement adaptée au public français, avec une touche plus engageante et naturelle :Chez Kemoway, nous nous engageons pour la planète :✓ Un arbre planté pour chaque commande passée✓ +1 arbre pour chaque 1 000 km parcourus par nos utilisateursEn partenariat avec JUST ONE TREE 🌱Parce que chaque geste compte pour un avenir plus vert.~~ \*\*Chez Kemoway, nous nous engageons pour la planète :
+<div class="old-text">
+ <span class="removed">Voici une version parfaitement adaptée au public français, avec une touche plus engageante et naturelle :Chez Kemoway, nous nous engageons pour la planète :✓ Un arbre planté pour chaque commande passée✓ +1 arbre pour chaque 1 000 km parcourus par nos utilisateursEn partenariat avec JUST ONE TREE 🌱Parce que chaque geste compte pour un avenir plus vert.</span>
+ </div>
+
+<div class="new-text"><span class="added">Chez Kemoway, nous nous engageons pour la planète :
 
 ✓ Un arbre planté pour chaque commande passée  
 ✓ +1 arbre pour chaque 1 000 km parcourus par nos utilisateurs
 
 En partenariat avec JUST ONE TREE 🌱  
-Parce que chaque geste compte pour un avenir plus vert.\*\*
+Parce que chaque geste compte pour un avenir plus vert.</span></div>
 
 ## Comment ça marche
 
