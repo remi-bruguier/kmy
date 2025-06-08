@@ -10,31 +10,3 @@
 
 <div class='old-text'><span class='removed'># Le meilleur vente</span></div>
 <div class='new-text'><span class='added'># La meilleure vente</span></div>
-
-Épuisé
-
-Distributeur:
-
-kemoway
-
-Kemoway VTT K5S
-
-€2.550,00
-
-27.5x2.2"
-
-Pneus
-
-720Wh
-
-Batterie
-
-29 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-**Price:** €2.550,00
