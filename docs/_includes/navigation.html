@@ -4,8 +4,8 @@
 
     <div class="nav-section">
       <div class="nav-section-title">Collections 系列</div>
-      <a href="{{ site.baseurl }}/collections/all" class="nav-item todo">all</a>
-      <a href="{{ site.baseurl }}/collections/all-e-bikes" class="nav-item todo"
+      <!-- <a href="{{ site.baseurl }}/collections/all" class="nav-item todo">all</a> -->
+      <a href="{{ site.baseurl }}/collections/all-e-bikes" class="nav-item done"
         >all-e-bikes</a
       >
       <a
@@ -15,17 +15,17 @@
       >
       <a
         href="{{ site.baseurl }}/collections/velo-cargo-electrique"
-        class="nav-item todo"
+        class="nav-item done"
         >velo-cargo-electrique</a
       >
       <a
         href="{{ site.baseurl }}/collections/velo-electrique-urbain"
-        class="nav-item todo"
+        class="nav-item perfect"
         >velo-electrique-urbain</a
       >
       <a
         href="{{ site.baseurl }}/collections/vtt-tout-terrain"
-        class="nav-item todo"
+        class="nav-item done"
         >vtt-tout-terrain</a
       >
     </div>
@@ -94,7 +94,7 @@
         class="nav-item done"
         >affiliate-marketing</a
       >
-      <a href="{{ site.baseurl }}/pages/faqs" class="nav-item todo">faqs</a>
+      <a href="{{ site.baseurl }}/pages/faqs" class="nav-item done">faqs</a>
       <a href="{{ site.baseurl }}/pages/retours" class="nav-item todo"
         >retours</a
       >
@@ -184,6 +184,10 @@
 
   .nav-item.done::before {
     content: "✅ ";
+  }
+
+  .nav-item.perfect::before {
+    content: "👌 ";
   }
 
   .nav-item.todo {
