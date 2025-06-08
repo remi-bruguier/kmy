@@ -39,8 +39,8 @@ function createDiffHtml(content: string, changes: Change[]): string {
   );
 
   for (const change of sortedChanges) {
-    const before = content.substring(0, change.startIndex);
-    const after = content.substring(change.endIndex);
+    const before = result.substring(0, change.startIndex);
+    const after = result.substring(change.endIndex);
 
     // Replace strikethrough + bold with old/new div structure
     const replacement = `<div class="old-text">
