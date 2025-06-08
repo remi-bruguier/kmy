@@ -1,5 +1,5 @@
-import { readFileSync, writeFileSync } from "fs";
-import { resolve } from "path";
+import { readFileSync, writeFileSync, readdirSync, statSync } from "fs";
+import { resolve, join, extname } from "path";
 
 interface Change {
   oldText: string;
@@ -8,12 +8,15 @@ interface Change {
   endIndex: number;
 }
 
-function parseChanges(line: string): Change[] {
+function parseChanges(content: string): Change[] {
   const changes: Change[] = [];
-  const regex = /~~(.*?)~~\s*(?:\\\*\\\*|\*\*)(.*?)(?:\\\*\\\*|\*\*)/g;
+
+  // Only handle strikethrough + bold patterns (multi-line support)
+  const strikethroughBoldRegex =
+    /~~(.*?)~~\s*(?:\\\*\\\*|\*\*)(.*?)(?:\\\*\\\*|\*\*)/gs;
   let match;
 
-  while ((match = regex.exec(line)) !== null) {
+  while ((match = strikethroughBoldRegex.exec(content)) !== null) {
     changes.push({
       oldText: match[1],
       newText: match[2],
@@ -22,15 +25,13 @@ function parseChanges(line: string): Change[] {
     });
   }
 
-  return changes;
+  return changes.sort((a, b) => a.startIndex - b.startIndex);
 }
 
-function createDiffHtml(line: string, changes: Change[]): string {
-  if (changes.length === 0) return line;
+function createDiffHtml(content: string, changes: Change[]): string {
+  if (changes.length === 0) return content;
 
-  // Build the old version with removed spans
-  let oldVersion = line;
-  let newVersion = line;
+  let result = content;
 
   // Sort changes by start index in reverse order to avoid index shifting
   const sortedChanges = [...changes].sort(
@@ -38,43 +39,32 @@ function createDiffHtml(line: string, changes: Change[]): string {
   );
 
   for (const change of sortedChanges) {
-    const before = line.substring(0, change.startIndex);
-    const after = line.substring(change.endIndex);
+    const before = content.substring(0, change.startIndex);
+    const after = content.substring(change.endIndex);
 
-    // For old version: replace with just the old text wrapped in removed span
-    const oldReplacement = `<span class="removed">${change.oldText}</span>`;
-    oldVersion = before + oldReplacement + after;
-
-    // For new version: replace with just the new text wrapped in added span
-    const newReplacement = `<span class="added">${change.newText}</span>`;
-    newVersion = before + newReplacement + after;
-  }
-
-  return `<div class="old-text">
-  ${oldVersion}
+    // Replace strikethrough + bold with old/new div structure
+    const replacement = `<div class="old-text">
+  <span class="removed">${change.oldText}</span>
 </div>
 
 <div class="new-text">
-  ${newVersion}
+  <span class="added">${change.newText}</span>
 </div>`;
+
+    result = before + replacement + after;
+  }
+
+  return result;
 }
 
 function transformMarkdown(content: string): string {
-  const lines = content.split("\n");
-  const transformedLines: string[] = [];
+  const changes = parseChanges(content);
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    const changes = parseChanges(line);
-
-    if (changes.length > 0) {
-      transformedLines.push(createDiffHtml(line, changes));
-    } else {
-      transformedLines.push(line);
-    }
+  if (changes.length > 0) {
+    return createDiffHtml(content, changes);
   }
 
-  return transformedLines.join("\n");
+  return content;
 }
 
 function addProtectionMarker(content: string): string {
@@ -85,18 +75,89 @@ function addProtectionMarker(content: string): string {
   return `${marker}\n\n${content}`;
 }
 
-function main() {
-  const filePath = process.argv[2] || "docs/pages/a-propos-de-nous.md";
-  const fullPath = resolve(filePath);
+function getAllMarkdownFiles(dir: string): string[] {
+  const files: string[] = [];
 
+  function scan(currentDir: string) {
+    const items = readdirSync(currentDir);
+
+    for (const item of items) {
+      const fullPath = join(currentDir, item);
+      const stat = statSync(fullPath);
+
+      if (stat.isDirectory()) {
+        // Skip certain directories
+        if (!["node_modules", ".git", "public", "assets"].includes(item)) {
+          scan(fullPath);
+        }
+      } else if (stat.isFile() && extname(item) === ".md") {
+        files.push(fullPath);
+      }
+    }
+  }
+
+  scan(dir);
+  return files;
+}
+
+function processFile(filePath: string): boolean {
   try {
-    const content = readFileSync(fullPath, "utf-8");
+    const content = readFileSync(filePath, "utf-8");
+
+    // Check if file has strikethrough+bold patterns only (including multi-line)
+    const hasStrikethroughBold =
+      /~~.*?~~\s*(?:\\\*\\\*|\*\*).*?(?:\\\*\\\*|\*\*)/gs.test(content);
+
+    if (!hasStrikethroughBold) {
+      console.log(`⏭️  Skipped ${filePath} (no changes detected)`);
+      return true;
+    }
+
     const transformed = transformMarkdown(content);
     const protectedContent = addProtectionMarker(transformed);
-    writeFileSync(fullPath, protectedContent, "utf-8");
+    writeFileSync(filePath, protectedContent, "utf-8");
     console.log(`✅ Transformed ${filePath}`);
+    return true;
   } catch (error) {
     console.error(`❌ Error processing ${filePath}:`, error);
+    return false;
+  }
+}
+
+function main() {
+  const docsPath = process.argv[2] || "docs";
+  const fullDocsPath = resolve(docsPath);
+
+  try {
+    const markdownFiles = getAllMarkdownFiles(fullDocsPath);
+
+    if (markdownFiles.length === 0) {
+      console.log("No markdown files found in docs folder");
+      return;
+    }
+
+    console.log(`Found ${markdownFiles.length} markdown files to process:\n`);
+
+    let successCount = 0;
+    let errorCount = 0;
+
+    for (const file of markdownFiles) {
+      if (processFile(file)) {
+        successCount++;
+      } else {
+        errorCount++;
+      }
+    }
+
+    console.log(`\n📊 Summary:`);
+    console.log(`✅ Successfully processed: ${successCount}`);
+    console.log(`❌ Errors: ${errorCount}`);
+
+    if (errorCount > 0) {
+      process.exit(1);
+    }
+  } catch (error) {
+    console.error(`❌ Error scanning docs folder:`, error);
     process.exit(1);
   }
 }
