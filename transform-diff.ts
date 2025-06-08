@@ -77,6 +77,14 @@ function transformMarkdown(content: string): string {
   return transformedLines.join("\n");
 }
 
+function addProtectionMarker(content: string): string {
+  const marker = "<!-- TRANSFORM_DIFF_MODIFIED: DO NOT OVERWRITE -->";
+  if (content.includes(marker)) {
+    return content;
+  }
+  return `${marker}\n\n${content}`;
+}
+
 function main() {
   const filePath = process.argv[2] || "docs/pages/a-propos-de-nous.md";
   const fullPath = resolve(filePath);
@@ -84,7 +92,8 @@ function main() {
   try {
     const content = readFileSync(fullPath, "utf-8");
     const transformed = transformMarkdown(content);
-    writeFileSync(fullPath, transformed, "utf-8");
+    const protectedContent = addProtectionMarker(transformed);
+    writeFileSync(fullPath, protectedContent, "utf-8");
     console.log(`✅ Transformed ${filePath}`);
   } catch (error) {
     console.error(`❌ Error processing ${filePath}:`, error);
