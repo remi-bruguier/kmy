@@ -1,5 +1,6 @@
 <nav class="site-nav">
-  <div class="nav-container">
+  <button class="nav-toggle" onclick="toggleNav()">☰</button>
+  <div class="nav-container" id="navContainer">
     <a href="{{ site.baseurl }}/" class="nav-item done">Home 主页</a>
 
     <div class="nav-section">
@@ -135,7 +136,27 @@
   </div>
 </nav>
 
+<script>
+  function toggleNav() {
+    const nav = document.querySelector(".site-nav");
+    nav.classList.toggle("nav-open");
+  }
+</script>
+
 <style>
+  .nav-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1001;
+    color: #333;
+  }
+
   .site-nav {
     background: #f8f9fa;
     padding: 1rem;
@@ -145,6 +166,7 @@
     position: fixed;
     height: 100vh;
     overflow-y: auto;
+    z-index: 1000;
   }
 
   .nav-container {
@@ -193,5 +215,41 @@
   .nav-item.todo {
     display: none;
     color: #999;
+  }
+
+  @media (max-width: 768px) {
+    .nav-toggle {
+      display: block;
+    }
+
+    .site-nav {
+      width: 100vw;
+      height: 100vh;
+      left: -100%;
+      top: 0;
+      margin-right: 0;
+      padding: 1rem 0;
+      transition: left 0.3s ease;
+    }
+
+    .site-nav.nav-open {
+      left: 0;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .site-nav {
+      padding: 0.5rem;
+    }
+
+    .nav-container {
+      gap: 1rem;
+      padding-top: 3rem;
+    }
+
+    .nav-item {
+      padding: 0.75rem;
+      font-size: 1rem;
+    }
   }
 </style>
