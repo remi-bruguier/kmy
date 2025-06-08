@@ -17,10 +17,18 @@ L'aventure Kemoway – Kemoway France
 </div>
 
 <div class="new-text">
-  <span class="added">Depuis 2011, l'équipe Kemoway développe des vélos électriques avec une mission ambitieuse : transformer les habitudes de déplacement de 10 millions de personnes.</span>
+  <span class="added">Depuis 2011, l'équipe Kemoway s'engage à révolutionner la mobilité de demain grâce aux vélos électriques. Notre ambition : offrir une alternative de transport durable à 10 millions de personnes.</span>
 </div>
 
-Depuis 14 ans, nous accompagnons plus de 500 000 cyclistes. En 2025, nous avons rejoint l'association Just One Tree avec un objectif : planter plus d'un million d'arbres dans les dix ans à venir.
+Depuis 14 ans, nous accompagnons plus de 500 000 cyclistes.
+
+<div class="old-text">
+  <span class="removed">En 2025, nous avons rejoint l'association Just One Tree avec un objectif : planter plus d'un million d'arbres dans les dix ans à venir.</span>
+</div>
+
+<div class="new-text">
+  <span class="added">En 2025, nous avons rejoint l'organisation Just One Tree avec un objectif clair : planter plus d'un million d'arbres au cours des dix prochaines années.</span>
+</div>
 
 ## Pourquoi choisir un vélo électrique ?
 
