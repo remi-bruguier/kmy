@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 VTT électrique tout suspendu – Kemoway France
 
 # VTT électrique tout suspendu

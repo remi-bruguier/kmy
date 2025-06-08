@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 Sécurité avant tout : Kemoway choisit les cellules Samsung pour ses ba – Kemoway France
 
 - 07 avril, 2025

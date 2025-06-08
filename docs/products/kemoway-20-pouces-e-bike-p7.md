@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 Vélo Cargo Électrique Kemoway P7- Batterie Samsung 720Wh, Moteur 110Nm – Kemoway France
 
 Photo

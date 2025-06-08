@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 Kemoway Vélo électrique Longtail E-Bike – Kemoway France
 
 # Vélo cargo électrique

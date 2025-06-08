@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 Termes et conditions – Kemoway France
 
 # Termes et conditions

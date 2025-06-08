@@ -4,6 +4,8 @@
 
 ## 内容
 
+<link rel="stylesheet" href="/assets/css/markdown.css">
+
 Kemoway K5 - Vélo Électrique avec Batterie Samsung 720Wh – Kemoway France
 
 Photo

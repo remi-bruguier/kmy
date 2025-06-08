@@ -194,8 +194,13 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
     // Get product details if it's a product page
     const productDetails = extractProductDetails($);
 
-    // Combine content
-    const content = [title, mainContent, productDetails]
+    // Add CSS link and combine content
+    const content = [
+      '<link rel="stylesheet" href="/assets/css/markdown.css">',
+      title,
+      mainContent,
+      productDetails,
+    ]
       .filter(Boolean)
       .join("\n\n");
 
