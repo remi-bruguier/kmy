@@ -1,3 +1,5 @@
+<!-- TRANSFORM_DIFF_MODIFIED: DO NOT OVERWRITE -->
+
 # Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
 
 来源网址：[https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s](https://kemoway.fr/products/kemoway-velo-electrique-27-5-pouces-k5s)
@@ -6,69 +8,14 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
-
-Caractéristiques
-
-Spécifications
-
-Faqs
-
-Kemoway VTT K5S
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Pourquoi K5S
 
 Le VTT électrique K5S est un modèle tout suspendu équipé d'un moteur central de 250W (110 N·m). Avec une autonomie pouvant atteindre 170 km, il vous permet d'explorer en toute liberté et confort.
 
-Batterie Samsung
-
-720Wh
-
-Moteur
-
-110N.m
-
-125KG
-
-Poids de chargement
-
-Batterie Samsung
-
-720Wh
-
-Moteur
-
-110N.m
-
-125KG
-
-Poids de chargement
-
 ## Batterie certifiée sécurité
 
-Le vélo électrique K5S est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour un conduite détendue et respectueuse de l'environnement.
+<div class='old-text'><span class='removed'>Le vélo électrique K5S est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour un conduite détendue et respectueuse de l'environnement.</span></div>
+<div class='new-text'><span class='added'>Le vélo électrique K5S est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour une conduite détendue et respectueuse de l'environnement.</span></div>
 
 720Wh, capacité de la batterie
 
@@ -108,15 +55,6 @@ Phare avant 90 lux
 
 Votre sécurité, notre priorité : phare et réflecteur intégrés
 
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
-Page 8
-
 ## Spécifications
 
 Batteries et chargeurs expédiés séparément
@@ -149,7 +87,8 @@ DNM, AO-06
 
 K5S Guidon de vélo
 
-largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
+<div class='old-text'><span class='removed'>largeur du guidon: 680mm, angle: 18°, augmenter: 20mm</span></div>
+<div class='new-text'><span class='added'>largeur du guidon: 680mm, angle: 18°, Réhausse: 20mm</span></div>
 
 K5S Potence de vélo
 
@@ -211,7 +150,7 @@ Pneus, chaînes et autres informations
 
 K5S Pneu
 
-Kenda, 27.5"*2.2
+Kenda, 27.5"\*2.2
 
 K5S Chaîne
 
@@ -245,42 +184,60 @@ Manuel d'utilisation
 
 Clé
 
-<link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
-
 ## FAQs
 
-Veuillez lire notre page FAQs pour en savoir plus.
+<div class="old-text">
+  <span class="removed">Veuillez lire notre page FAQs pour en savoir plus.</span>
+</div>
 
-D'où partent nos vélos électriques ?
+<div class="new-text">
+  <span class="added">Consultez notre FAQ pour obtenir des réponses à vos questions les plus fréquentes.</span>
+</div>
 
-Nos vélos électriques partent directement de notre entrepôt allemand. Expédition sous 24-48h après votre commande.Livraison chez vous en 3 à 5 jours ouvrés.
+**D'où partent nos vélos électriques ?**
+<div class="old-text">
+  <span class="removed">Nos vélos électriques partent directement de notre entrepôt allemand. Expédition sous 24-48h après votre commande.Livraison chez vous en 3 à 5 jours ouvrés.</span>
+</div>
 
-Comment retourner un article ?
+<div class="new-text">
+  <span class="added">Nos vélos électriques sont expédiés directement depuis notre entrepôt allemand. Nous garantissons un envoi sous 24 à 48 heures après validation de votre commande, avec une livraison à domicile en 3 à 5 jours ouvrés.</span>
+</div>
 
-Pour retourner un article, vous pouvez contacter notre service client par e-mail. Nous vous communiquerons alors une adresse de retour.
+**Comment retourner un article ?**
+<div class="old-text">
+  <span class="removed">Pour retourner un article, vous pouvez contacter notre service client par e-mail. Nous vous communiquerons alors une adresse de retour.</span>
+</div>
 
-Peut-on l'installer soi-même ?
+<div class="new-text">
+  <span class="added">Pour effectuer un retour, contactez simplement notre service client par e-mail. Notre équipe vous fournira immédiatement l'adresse de retour et vous guidera dans la procédure.</span>
+</div>
 
-On a déjà fait 90% du travail : il ne reste que quelques étapes simples.
+**Peut-on l'installer soi-même ?**
+<div class="old-text">
+  <span class="removed">On a déjà fait 90% du travail : il ne reste que quelques étapes simples.</span>
+</div>
 
-Les vélos électriques Kemoway sont-ils aux normes européennes ?
+<div class="new-text">
+  <span class="added">Absolument ! Nous avons pré-assemblé 90% du vélo : il ne vous reste que quelques étapes simples de montage final à réaliser.</span>
+</div>
 
+**Les vélos électriques Kemoway sont-ils aux normes européennes ?**
 Oui, Kemoway est spécialisé dans la conception et la vente de vélos électriques pour le marché européen. Tous nos modèles respectent les normes en vigueur et sont parfaitement légaux en ville.
 
-Comment dois-je réagir si le livreur a endommagé mon vélo ?
+**Comment dois-je réagir si le livreur a endommagé mon vélo ?**
+<div class="old-text">
+  <span class="removed">À réception de votre vélo électrique, vérifiez-le sans tarder. En cas de dommage, envoyez-nous des photos du produit ainsi que du bon de livraison. Nous nous chargeons de régler le problème.</span>
+</div>
 
-À réception de votre vélo électrique, vérifiez-le sans tarder. En cas de dommage, envoyez-nous des photos du produit ainsi que du bon de livraison. Nous nous chargeons de régler le problème.
+<div class="new-text">
+  <span class="added">Dès réception de votre vélo électrique, inspectez-le immédiatement. Si vous constatez des dommages, photographiez le produit endommagé ainsi que le bon de livraison, puis envoyez-nous ces photos. Notre équipe prendra en charge la résolution du problème dans les plus brefs délais.</span>
+</div>
 
-Vous n'avez pas trouvé la réponse à votre question ?
+**Vous n'avez pas trouvé la réponse à votre question ?**
+<div class="old-text">
+  <span class="removed">On est là si vous avez besoin !</span>
+</div>
 
-On est là si vous avez besoin !
-
-Nom
-
-Courriel
-
-Message
-
-Envoyer
-
-Envoyer
+<div class="new-text">
+  <span class="added">Notre équipe reste à votre disposition pour toute question supplémentaire !</span>
+</div>
