@@ -27,6 +27,13 @@ async function scrapePage(url: string): Promise<ScrapedContent> {
       "svg, script, style, noscript, iframe, form, nav, footer, header, aside, button, input, select, textarea, img, video, audio, canvas, embed, object, param, source, track, wbr, br, hr, meta, link, base"
     ).remove();
 
+    // Remove Shopify section elements with pattern shopify-section-template--{number}__main-product
+    $('[class*="shopify-section-template-"][class*="__main-product"]').remove();
+    $('[id*="shopify-section-template-"][id*="__main-product"]').remove();
+
+    // Remove judge.me review widget blocks
+    $('[id*="judge_me_reviews_review_widget"]').remove();
+
     // Get title
     const title = $("title").text().trim();
 

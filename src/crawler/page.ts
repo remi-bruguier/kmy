@@ -185,6 +185,13 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
       "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text, .breadcrumb, .mega-menu-list"
     ).remove();
 
+    // Remove Shopify section elements with pattern shopify-section-template--{number}__main-product
+    $('[class*="shopify-section-template-"][class*="__main-product"]').remove();
+    $('[id*="shopify-section-template-"][id*="__main-product"]').remove();
+
+    // Remove judge.me review widget blocks
+    $('[id*="judge_me_reviews_review_widget"]').remove();
+
     // Get title
     const title = $("title").text().trim().replace(/\s+/g, " ");
 

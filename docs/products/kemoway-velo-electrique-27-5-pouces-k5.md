@@ -8,88 +8,6 @@
 
 Kemoway K5 - Vélo Électrique avec Batterie Samsung 720Wh – Kemoway France
 
-Photo
-
-Video
-
-27.5"*2.25
-
-Pneu
-
-720Wh
-
-Batterie
-
-29 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-250W
-
-Puissance
-
-25KM/H
-
-Vitesse
-
-# Kemoway K5
-
-4.86
-
-7 avis 7 total des critiques
-
-€1.999,00
-
-TVA de 20% incluse
-
-Couleur
-
-Couleur:
-
-noir
-
-- bleu
-- noir
-<div class="product-form__input"> <label class="form__label flex gap-2" for="Variants-template--24789346025840__main-product-14647563780464">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24789346025840__main-product-14647563780464" class="select" form="ProductForm-template--24789346025840__main-product-14647563780464"><option disabled value="51724338495856" > bleu - Épuisé - €1.999,00 </option><option selected value="51724338463088" > noir - €1.999,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Ajouter au panier
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécifications
@@ -325,76 +243,6 @@ Clé
 
 <link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
 
-## Customer Reviews
-
-Based on 7 reviews
-
-Write a review
-
-86%
-
-(6)
-
-14%
-
-(1)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-B
-
-Bernard valentin
-
-Potente
-
-Imballaggio perfetto, molto robusta, veloce, davvero una bicicletta riuscita. Il prezzo davvero ottimo.
-
-b
-
-b.m.
-
-Couleur parfaite pour moi !
-
-La livraison est rapide, tout est désormais normal.
-
-M
-
-MASSAL philippe
-
-moteur puissant et service client réactif
-
-Je fais confiance aux batteries de Samsung, j'ai donc choisi le K5
-
-L
-
-Lily
-
-service apres vente rapide et reactif
-
-J'ai oublié d'utiliser ma réduction, je les ai contactés et j'ai été remboursé le jour même.
-
-B
-
-BROCHARD GERARD
-
-súper
-
-J'ai offert cette voiture à ma femme et elle l'adore
-
-1
-
-2
-
 ## FAQs
 
 Veuillez lire notre page FAQs pour en savoir plus.
@@ -432,5 +280,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** €1.999,00

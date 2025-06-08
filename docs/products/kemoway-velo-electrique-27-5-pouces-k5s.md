@@ -8,78 +8,6 @@
 
 Kemoway K5S - VTT Électrique Tout Terrain batterie Samsung 720Wh – Kemoway France
 
-Photo
-
-Video
-
-27.5x2.2"
-
-Pneus
-
-720Wh
-
-Batterie
-
-29 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-25KM/H
-
-Vitesse
-
-250W
-
-Puissance
-
-# Kemoway VTT K5S
-
-€2.550,00
-
-TVA de 20% incluse
-
-<div class="product-form__input hidden"> <label class="form__label flex gap-2" for="Variants-template--24943615770992__main-product-14645752856944">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24943615770992__main-product-14645752856944" class="select" form="ProductForm-template--24943615770992__main-product-14645752856944"><option selected disabled value="51718802964848" > Default Title - Épuisé - €2.550,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Épuisé
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Pairs well with
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécifications
@@ -356,5 +284,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** €2.550,00

@@ -8,80 +8,6 @@
 
 Vélo Cargo Électrique Kemoway P7- Batterie Samsung 720Wh, Moteur 110Nm – Kemoway France
 
-Photo
-
-Video
-
-20"*4.0
-
-Pneu
-
-720Wh
-
-Batterie
-
-39 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-250W
-
-Puissance
-
-25KM/H
-
-Vitesse
-
-# Kemoway P7
-
-5.0
-
-6 avis 6 total des critiques
-
-€2.299,00
-
-TVA de 20% incluse
-
-<div class="product-form__input hidden"> <label class="form__label flex gap-2" for="Variants-template--24789251948912__main-product-14656574751088">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24789251948912__main-product-14656574751088" class="select" form="ProductForm-template--24789251948912__main-product-14656574751088"><option selected value="51766823944560" > Default Title - €2.299,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Ajouter au panier
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécifications
@@ -317,76 +243,6 @@ Clé
 
 <link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
 
-## Customer Reviews
-
-Based on 6 reviews
-
-Write a review
-
-100%
-
-(6)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-J
-
-Jacqueline MATENOT
-
-très bonne tenue de route
-
-très beau produit maniable et très fonctionnel ,très beau design pour l'instant ravi de mon achat ,après voir la durée dans le temps
-
-C
-
-Chapuis Alain
-
-Vélo puissant
-
-Un très bon vélo en termes de caractéristiques techniques et de prix. Je le recommande fortement.
-
-b
-
-bouard marc
-
-Bon produit et service technique au top
-
-Vélo magnifique, montage assez facile, tout les éléments sont complets, qualité et prix très correct. Assistance technique au rendez-vous et très réactif.
-
-P
-
-P.a.
-
-Excelente bicicleta!
-
-Excelente bicicleta! Ravi de notre achat.
-
-S
-
-SUBRAMNIYAM Jetakumar
-
-Prodotto e servizio eccellenti
-
-Il montaggio è stato sorprendentemente semplice e intuitivo. Anche per chi non è particolarmente esperto di meccanica, l'assemblaggio risulta un'operazione alla portata di tutti. Un punto di forza notevole è il servizio post-vendita: il team di assistenza si è dimostrato disponibile e cortese, pronto a rispondere a qualsiasi domanda o dubbio.
-
-1
-
-2
-
 ## FAQs
 
 Veuillez lire notre page FAQs pour en savoir plus.
@@ -424,5 +280,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** €2.299,00

@@ -8,94 +8,6 @@
 
 Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
 
-Photo
-
-Video
-
-27.5x2.2"
-
-Pneus
-
-720Wh
-
-Batterie
-
-28.5 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-250W
-
-Puissance
-
-25KM/H
-
-Vitesse
-
-# Kemoway K6S
-
-5.0
-
-1 avis 1 total des critiques
-
-Prix promotionnel
-
-€1.599,00
-
-Prix habituel
-
-€1.999,00
-
-TVA de 20% incluse
-
-Couleur
-
-Couleur:
-
-gris
-
-- gris
-- bleu
-<div class="product-form__input"> <label class="form__label flex gap-2" for="Variants-template--24789339832688__main-product-14656552763760">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24789339832688__main-product-14656552763760" class="select" form="ProductForm-template--24789339832688__main-product-14656552763760"><option selected value="51766757359984" > gris - €1.599,00 </option><option value="51766757523824" > bleu - €1.599,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Ajouter au panier
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécifications
@@ -326,40 +238,6 @@ Clé
 
 <link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
 
-## Customer Reviews
-
-Based on 1 review
-
-Write a review
-
-100%
-
-(1)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-j
-
-jan jan
-
-Très bon choix
-
-La configuration est bien pensée. Ce qui m'a décidé, c'est surtout sa batterie Samsung.
-
 ## FAQs
 
 Veuillez lire notre page FAQs pour en savoir plus.
@@ -397,6 +275,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** Prix promotionnel€1.599,00Prix habituel
-    €1.999,00

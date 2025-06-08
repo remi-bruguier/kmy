@@ -8,90 +8,6 @@
 
 Kemoway K5R vélo électrique, Samsung 720Wh, 170 km d'autonomie – Kemoway France
 
-Photo
-
-Video
-
-27.5"*2.25
-
-Pneu
-
-720Wh
-
-Batterie
-
-26.5 kg
-
-Poids net
-
-55N.m
-
-Couple
-
-25KM/H
-
-Vitesse
-
-250W
-
-Puissance
-
-# Kemoway K5R
-
-5.0
-
-4 avis 4 total des critiques
-
-€1.399,00
-
-TVA de 20% incluse
-
-Couleur
-
-Couleur:
-
-Rose
-
-- Rose
-- Gris
-<div class="product-form__input"> <label class="form__label flex gap-2" for="Variants-template--24789356970352__main-product-14647563846000">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24789356970352__main-product-14647563846000" class="select" form="ProductForm-template--24789356970352__main-product-14647563846000"><option selected value="51766703063408" > Rose - €1.399,00 </option><option value="51766703096176" > Gris - €1.399,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Ajouter au panier
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Pairs well with
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécification
@@ -330,64 +246,6 @@ Clé
 
 <link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
 
-## Customer Reviews
-
-Based on 4 reviews
-
-Write a review
-
-100%
-
-(4)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-0%
-
-(0)
-
-A
-
-Aurélie LINAY
-
-Très bon service client
-
-Très satisfaite du service client, très réactif et envoie tous les documents nécessaires pour le dossier français de subvention par l'état lors de l'achat d'un vélo électrique. Vélo magnifique, à voir dans le temps, mais facile à prendre en mains.
-
-M
-
-Mouans médical
-
-Un véritable bijou!
-
-Article bien reçu et surtout bien emballé un produit de haute qualité avec un service après-vente compétant on ne peut que féliciter largement
-
-G
-
-Gallois sylvain
-
-Le soin apporté à la protection
-
-Reçu très rapidement (4 jours) .Très bien fini et un excellent point pour la minutie et protection à l'emballage . Montage de finition simple .Complètement satisfait des premiers tests d'essais .Merci
-
-M
-
-M.C.
-
-Super vélo jen suis ravie
-
-Super vélo j'en suis vraiment content , mais je n'arrive pas à trouver combien de nm il fait, si quelqu'un a la réponse ça serai sympa merci ;)) je recommande grandement ce vélo :)
-
 ## FAQs
 
 Veuillez lire notre page FAQs pour en savoir plus.
@@ -425,5 +283,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** €1.399,00

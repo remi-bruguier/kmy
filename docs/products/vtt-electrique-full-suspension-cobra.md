@@ -8,91 +8,6 @@
 
 VTT Électrique Cobra Tout-Terrain - Moteur 110Nm, Shimano 10V – Kemoway France
 
-Photo
-
-Video
-
-27.5"*2.4
-
-Pneu
-
-486Wh
-
-Batterie
-
-28 kg
-
-Poids net
-
-110N.m
-
-Couple
-
-25KM/H
-
-Vitesse
-
-250W
-
-Puissance
-
-# VTT Cobra
-
-Prix promotionnel
-
-€2.399,00
-
-Prix habituel
-
-€2.999,00
-
-TVA de 20% incluse
-
-couleur
-
-couleur:
-
-rouge
-
-- rouge
-- jaune
-- vert
-<div class="product-form__input"> <label class="form__label flex gap-2" for="Variants-template--24967405535600__main-product-14755105440112">Variantes de produits</label> <div class="field"> <select name="id" id="Variants-template--24967405535600__main-product-14755105440112" class="select" form="ProductForm-template--24967405535600__main-product-14755105440112"><option selected value="52136642412912" > rouge - €2.399,00 </option><option value="52136642445680" > jaune - €2.399,00 </option><option value="52136642478448" > vert - €2.399,00 </option></select><svg class="icon icon-chevron-up icon-sm absolute" viewBox="0 0 24 24" stroke="currentColor" fill="none" xmlns="http://www.w3.org/2000/svg"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 15L12 9L18 15"></path> </svg></div> </div>
-
-Quantité
-
-Ajouter au panier
-
-Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la
-politique de résiliation
-et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé.
-
-Partager:
-
-- Partager sur Facebook
-- Partager sur X
-- Épingler sur Pinterest
-- Partager par Email
-
-Partager
-
-Partager
-
-- Facebook Partager sur Facebook
-- X (Twitter) Partager sur X
-- Pinterest Épingler sur Pinterest
-- Email Partager par Email
-
-Besoin d'aide?
-
-Garantie constructeur de 24 mois
-
-Livraison en 48h
-
-Conformité CE attestée
-
-Profitez de 30 jours d'essai offerts
-
 Caractéristiques
 
 Spécifications
@@ -355,6 +270,3 @@ Message
 Envoyer
 
 Envoyer
-
-**Price:** Prix promotionnel€2.399,00Prix habituel
-    €2.999,00
