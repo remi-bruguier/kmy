@@ -182,7 +182,7 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
 
     // Remove unwanted elements
     $(
-      "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text, .breadcrumb, .mega-menu-list"
+      "script, style, .cart, .search, .social-share, .footer-copyright, .footer-copyright-text, .breadcrumb, .mega-menu-list, #locator-app-block, .product-card"
     ).remove();
 
     // Remove Shopify section elements with pattern shopify-section-template--{number}__main-product

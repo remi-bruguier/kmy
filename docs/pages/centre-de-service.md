@@ -12,27 +12,4 @@ Centre de Service – Kemoway France
 
 Kemoway développe actuellement un réseau plus large de revendeurs, points de réparation et centres d’essai. Par ailleurs, nous proposons une assistance technique à distance ainsi qu’un service de livraison de pièces détachées.
 
-# Find Our Store 1
-
-Current Location
-
-Find My Location
-
-Search Radius
-
-Search Radius Measurement
-
-Kilometer
-Mile
-
-Tags
-
-More »
-Less «
-
-Search
-
-- List
-- Map
-
 \n
