@@ -7,7 +7,8 @@
     "build": "tsc",
     "start": "pnpm build && node dist/index.js -u https://kemoway.fr -o docs -e '.*\\.(jpg|png|gif|css|js)$' '.*\\?.*' '.*#.*'",
     "dev": "tsc -w",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "transform-diff": "tsx transform-diff.ts"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.15.30",
+    "tsx": "^4.6.2",
     "typescript": "^5.8.3"
   },
   "dependencies": {
