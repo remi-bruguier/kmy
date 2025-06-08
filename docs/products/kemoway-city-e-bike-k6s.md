@@ -4,7 +4,7 @@
 
 ## 内容
 
-<link rel="stylesheet" href="/assets/css/markdown.css">
+<link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
 Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
 

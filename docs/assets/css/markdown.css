@@ -1,0 +1,32 @@
+.old-text {
+  background-color: #ffebeb;
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border-left: 4px solid #ff6b6b;
+}
+
+.new-text {
+  background-color: #ebffeb;
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border-left: 4px solid #51cf66;
+}
+
+.removed {
+  text-decoration: line-through;
+  color: #d63384;
+  background-color: #f8d7da;
+  padding: 2px 4px;
+  border-radius: 2px;
+  font-weight: normal;
+}
+
+.added {
+  font-weight: bold;
+  color: #198754;
+  background-color: #d1e7dd;
+  padding: 2px 4px;
+  border-radius: 2px;
+}

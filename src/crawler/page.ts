@@ -196,7 +196,7 @@ export async function scrapePage(url: string): Promise<ScrapedPage> {
 
     // Add CSS link and combine content
     const content = [
-      '<link rel="stylesheet" href="/assets/css/markdown.css">',
+      '<link rel="stylesheet" href="/kmy/assets/css/markdown.css">',
       title,
       mainContent,
       productDetails,

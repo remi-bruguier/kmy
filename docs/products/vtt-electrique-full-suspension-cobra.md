@@ -4,7 +4,7 @@
 
 ## 内容
 
-<link rel="stylesheet" href="/assets/css/markdown.css">
+<link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
 VTT Électrique Cobra Tout-Terrain - Moteur 110Nm, Shimano 10V – Kemoway France
 

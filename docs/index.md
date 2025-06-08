@@ -4,7 +4,7 @@
 
 ## 内容
 
-<link rel="stylesheet" href="/assets/css/markdown.css">
+<link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
 Kemoway E-Bike: Boutique en Ligne de E-Bikes | Prix Direct Usine – Kemoway France
 

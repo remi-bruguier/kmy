@@ -1,6 +1,8 @@
 import { scrapePage } from "./page.js";
 import { savePage, createIndex } from "../utils/fs.js";
 import { logger } from "../utils/logger.js";
+import fs from "fs-extra";
+import path from "path";
 
 export interface CrawlerOptions {
   baseUrl: string;
@@ -16,6 +18,17 @@ export class Crawler {
 
   constructor(private options: CrawlerOptions) {
     this.queue.push(options.baseUrl);
+  }
+
+  private async copyAssets() {
+    const sourceDir = path.join(process.cwd(), "public", "assets");
+    const targetDir = path.join(
+      process.cwd(),
+      this.options.outputDir,
+      "assets"
+    );
+    await fs.copy(sourceDir, targetDir);
+    logger.info(`Copied assets from ${sourceDir} to ${targetDir}`);
   }
 
   private isValidUrl(url: string): boolean {
@@ -112,6 +125,9 @@ export class Crawler {
 
   async crawl(): Promise<void> {
     logger.info(`Starting crawl of ${this.options.baseUrl}`);
+
+    // Copy assets before starting the crawl
+    await this.copyAssets();
 
     while (this.queue.length > 0) {
       const url = this.queue.shift()!;

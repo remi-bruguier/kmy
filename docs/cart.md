@@ -4,6 +4,6 @@
 
 ## 内容
 
-<link rel="stylesheet" href="/assets/css/markdown.css">
+<link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
 Votre panier – Kemoway France
