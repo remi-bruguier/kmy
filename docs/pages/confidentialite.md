@@ -83,7 +83,8 @@ Lorsque vous passez une commande sur le Site, nous conservons vos Informations p
 
 Si vous résidez dans l'EEE, vous avez le droit de vous opposer au traitement fondé uniquement sur une prise de décision automatisée qui inclut le profilage, lorsque cette prise de décision a un effet juridique sur vous ou vous affecte de manière significative.
 
-Nous NE PAS s'engager dans une prise de décision entièrement automatisée ayant un effet juridique ou autrement significatif en utilisant les données client.
+<div class='old-text'><span class='removed'>Nous NE PAS s'engager dans une prise de décision entièrement automatisée ayant un effet juridique ou autrement significatif en utilisant les données client.</span></div>
+<div class='new-text'><span class='added'>Nous ne nous engageons PAS dans une prise de décision entièrement automatisée ayant un effet juridique ou autrement significatif en utilisant les données client.</span></div>
 
 Notre processeur Shopify utilise une prise de décision automatisée limitée pour prévenir la fraude qui n'a pas d'effet juridique ou autrement significatif sur vous.
 
@@ -115,8 +116,8 @@ Nous utilisons les cookies suivants pour optimiser votre expérience sur notre s
 ## COOKIES NÉCESSAIRES AU FONCTIONNEMENT DE LA BOUTIQUE
 
 Nom | Fonction
-_un | Utilisé en relation avec l'accès à l'administrateur.
-_id_de_session_sécurisée | Utilisé en relation avec la navigation dans une vitrine.
+\_un | Utilisé en relation avec l'accès à l'administrateur.
+\_id_de_session_sécurisée | Utilisé en relation avec la navigation dans une vitrine.
 chariot | Utilisé en relation avec le panier d'achat.
 panier_sig | Utilisé en relation avec le paiement.
 panier_ts | Utilisé en relation avec le paiement.
@@ -124,21 +125,21 @@ jeton de paiement | Utilisé en relation avec le paiement.
 secrète | Utilisé en relation avec le paiement.
 signature_client_sécurisée | Utilisé en relation avec la connexion client.
 vitrine_résumé | Utilisé en relation avec la connexion client.
-_shopify_u | Utilisé pour faciliter la mise à jour des informations du compte client.
+\_shopify_u | Utilisé pour faciliter la mise à jour des informations du compte client.
 
 ## RAPPORTS ET ANALYSES
 
 Nom | Fonction
-_consentement_au_suivi | Préférences de suivi.
-_page_de_destination | Suivre les pages de destination
-_référent_origine | Suivre les pages de destination
-_s | Analyses Shopify.
-_shopify_fs | Analyses Shopify.
-_shopify_s | Analyses Shopify.
-_shopify_sa_p | Analyses Shopify relatives au marketing et aux références.
-_shopify_sa_t | Analyses Shopify relatives au marketing et aux références.
-_shopify_y | Analyses Shopify.
-_y | Analyses Shopify.
+\_consentement_au_suivi | Préférences de suivi.
+\_page_de_destination | Suivre les pages de destination
+\_référent_origine | Suivre les pages de destination
+\_s | Analyses Shopify.
+\_shopify_fs | Analyses Shopify.
+\_shopify_s | Analyses Shopify.
+\_shopify_sa_p | Analyses Shopify relatives au marketing et aux références.
+\_shopify_sa_t | Analyses Shopify relatives au marketing et aux références.
+\_shopify_y | Analyses Shopify.
+\_y | Analyses Shopify.
 
 La durée pendant laquelle un cookie reste sur votre ordinateur ou appareil mobile varie selon qu'il s'agit d'un cookie « persistant » ou « de session ». Les cookies de session durent jusqu'à ce que vous arrêtiez de naviguer et les cookies persistants durent jusqu'à leur expiration ou leur suppression. La plupart des cookies que nous utilisons sont persistants et expirent entre 30 minutes et deux ans à compter de la date à laquelle ils sont téléchargés sur votre appareil.
 
