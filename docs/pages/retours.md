@@ -1,3 +1,5 @@
+<!-- TRANSFORM_DIFF_MODIFIED: DO NOT OVERWRITE -->
+
 # Retours – Kemoway France
 
 来源网址：[https://kemoway.fr/pages/retours](https://kemoway.fr/pages/retours)
@@ -20,7 +22,8 @@ Notes sur le voyage de retour
 
 3. Si vous ne bénéficiez pas des retours gratuits, vous devrez payer vous-même les frais de retour.
 
-Raisons des retours gratuits
+<div class='old-text'><span class='removed'>Raisons des retours gratuits</span></div>
+<div class='new-text'><span class='added'>Conditions des retours gratuits</span></div>
 
 1. Le produit est endommagé pendant le transport et ne peut pas être réparé à distance. Sur demande, nous pouvons vous fournir une étiquette de retour.
 
