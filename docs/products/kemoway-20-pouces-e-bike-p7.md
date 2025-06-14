@@ -6,38 +6,6 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-Vélo Cargo Électrique Kemoway P7- Batterie Samsung 720Wh, Moteur 110Nm – Kemoway France
-
-Caractéristiques
-
-Spécifications
-
-Faqs
-
-Kemoway P7
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Explorez P7
 
 Avec son pack énergie Samsung 720 Wh et son moteur haute performance (110 N·m), le Kemoway P7 allie 170 km d'autonomie à une capacité de transport optimisée grâce à ses doubles supports avant/arrière.
@@ -87,9 +55,10 @@ Fourche hydraulique
 
 Fonction verrouillage & Débattement 60 mm
 
-Pneus élargis
-
-Des pneus plus larges procurent une adhérence accrue et une capacité de charge supérieure
+<div class='old-text'><span class='removed'>Pneus élargis
+Des pneus plus larges procurent une adhérence accrue et une capacité de charge supérieure</span></div>
+<div class='new-text'><span class='added'>Pneus renforcés
+Des pneus plus larges offrent une meilleure adhérence et une capacité de charge supérieure</span></div>
 
 Dérailleur Shimano
 
