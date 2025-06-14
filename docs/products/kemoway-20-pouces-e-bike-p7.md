@@ -149,7 +149,7 @@ largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
 
 P7 Potence de vélo
 
-Promax pliable, 31.8*275mm
+Promax pliable, 31.8\*275mm
 
 P7 Tige de selle de vélo
 
@@ -207,7 +207,7 @@ Pneus, chaînes et autres informations
 
 P7 Pneu
 
-CST， 20"*4.0
+CST， 20"\*4.0
 
 P7 Chaîne
 
@@ -240,43 +240,3 @@ Outils d'installation
 Emballage de batterie
 
 Clé
-
-<link href="//kemoway.fr/cdn/shop/t/3/assets/product-reviews.css?v=171459682357482648691733928128" rel="stylesheet" type="text/css" media="all" />
-
-## FAQs
-
-Veuillez lire notre page FAQs pour en savoir plus.
-
-D'où partent nos vélos électriques ?
-
-Nos vélos électriques partent directement de notre entrepôt allemand. Expédition sous 24-48h après votre commande.Livraison chez vous en 3 à 5 jours ouvrés.
-
-Comment retourner un article ?
-
-Pour retourner un article, vous pouvez contacter notre service client par e-mail. Nous vous communiquerons alors une adresse de retour.
-
-Peut-on l'installer soi-même ?
-
-On a déjà fait 90% du travail : il ne reste que quelques étapes simples.
-
-Les vélos électriques Kemoway sont-ils aux normes européennes ?
-
-Oui, Kemoway est spécialisé dans la conception et la vente de vélos électriques pour le marché européen. Tous nos modèles respectent les normes en vigueur et sont parfaitement légaux en ville.
-
-Comment dois-je réagir si le livreur a endommagé mon vélo ?
-
-À réception de votre vélo électrique, vérifiez-le sans tarder. En cas de dommage, envoyez-nous des photos du produit ainsi que du bon de livraison. Nous nous chargeons de régler le problème.
-
-Vous n'avez pas trouvé la réponse à votre question ?
-
-On est là si vous avez besoin !
-
-Nom
-
-Courriel
-
-Message
-
-Envoyer
-
-Envoyer
