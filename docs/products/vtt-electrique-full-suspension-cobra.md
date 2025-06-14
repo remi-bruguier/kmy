@@ -6,41 +6,10 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-VTT Électrique Cobra Tout-Terrain - Moteur 110Nm, Shimano 10V – Kemoway France
-
-Caractéristiques
-
-Spécifications
-
-Faqs
-
-VTT Cobra
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Pourquoi Cobra
 
-Avec son moteur central haute performance, sa transmission Shimano ultra-précise et sa suspension avant à air réglable, le Cobra excelle aussi bien en trail technique qu'en ville. Sa suspension arrière personnalisable épouse votre style de conduite, tandis que son cadre softail offre une stabilité à toute épreuve.
+<div class='old-text'><span class='removed'>Avec son moteur central haute performance, sa transmission Shimano ultra-précise et sa suspension avant à air réglable, le Cobra excelle aussi bien en trail technique qu'en ville. Sa suspension arrière personnalisable épouse votre style de conduite, tandis que son cadre softail offre une stabilité à toute épreuve.</span></div>
+<div class='new-text'><span class='added'>Avec son moteur central haute performance, sa transmission Shimano ultra-précise et sa suspension à air avant réglable, le Cobra excelle aussi bien sur les sentiers difficiles qu'en usage urbain. Sa suspension arrière personnalisable épouse votre style de conduite, tandis que son cadre softail offre une stabilité à toute épreuve.</span></div>
 
 DNM, AO-38RC
 
@@ -86,7 +55,9 @@ Amortisseur arrière DNM AO-38RC pour VTT tout suspendu - réglable, charge max 
 
 écran TFT couleur
 
-Système Ananda D18 (écran TFT) - Comprendre facilement les informations sur le cyclisme
+<div class='old-text'><span class='removed'>Système Ananda D18 (écran TFT) - Comprendre facilement les informations sur le cyclisme</span></div>
+
+<div class='new-text'><span class='added'>Système Ananda D18 (écran TFT) - Affichage clair de toutes les données de conduite</span></div>
 
 Shimano 10V
 
@@ -94,7 +65,7 @@ Avec ses 10 vitesses, la cassette Shimano CS-M4100 couvre toutes vos exigences d
 
 Suspension air
 
-Suspension air SR SUNTOUR X1-BOOST - Absorption des vibrations exceptionnelle
+<div class='old-text'><span class='removed'>Suspension air SR SUNTOUR X1-BOOST - Absorption des vibrations exceptionnelle</span></div><div class='new-text'><span class='added'>Suspension air SR SUNTOUR X1-BOOST - Absorption des vibrations optimale</span></div>
 
 Freins hydrauliques Tektro
 
