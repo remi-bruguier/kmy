@@ -140,7 +140,8 @@ SR SUNTOUR， NEX-700C， Avec fonction de suspension et de verrouillage, Distan
 
 K6S Guidon de vélo
 
-largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
+<div class='old-text'><span class='removed'>largeur du guidon: 680mm, angle: 18°, augmenter: 20mm</span></div>
+<div class='new-text'><span class='added'>largeur du guidon: 680mm, angle: 18°, Réhausse: 20mm</span></div>
 
 K6S Potence de vélo
 

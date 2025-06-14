@@ -6,38 +6,6 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-Kemoway K5R vélo électrique, Samsung 720Wh, 170 km d'autonomie – Kemoway France
-
-Caractéristiques
-
-Spécification
-
-Faqs
-
-Kemoway K5R
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Pourquoi K5R
 
 Le K5R dispose d'une batterie Samsung 720 Wh et d'un moteur arrière 55 N·m, avec une autonomie maximale de 170 km. Une seule charge suffit pour une journée d'utilisation intensive.
@@ -78,7 +46,8 @@ Le vélo électrique K5R est livré avec une batterie de 720 Wh certifiée CE. I
 
 Force motrice : 55 N·m
 
-Le premier moteur Kemoway a été lancé en 2011. Après de nombreuses améliorations, il est désormais plus silencieux et plus économe en énergie.
+<div class='old-text'><span class='removed'>Le premier moteur Kemoway a été lancé en 2011. Après de nombreuses améliorations, il est désormais plus silencieux et plus économe en énergie.</span></div>
+<div class='new-text'><span class='added'>Le premier moteur Kemoway a été lancé en 2011. Après de nombreuses améliorations au fil des années, il est désormais plus silencieux et plus économe en énergie.</span></div>
 
 Dérailleur Shimano
 
@@ -103,14 +72,6 @@ Votre sécurité, notre priorité : phare et réflecteur intégrés
 Porte bagages arrière Mik
 
 Porte-bagages arrière - montage facile et charge 25 kg
-
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
 
 ## Détails du produit
 
@@ -140,7 +101,8 @@ SR SUNTOUR， NEX-700C， avec suspension, Distance de déplacement : 63 mm
 
 K5R Guidon de vélo
 
-largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
+<div class='old-text'><span class='removed'>largeur du guidon: 680mm, angle: 18°, augmenter: 20mm</span></div>
+<div class='new-text'><span class='added'>largeur du guidon: 680mm, angle: 18°, Réhausse: 20mm</span></div>
 
 K5R Potence de vélo
 

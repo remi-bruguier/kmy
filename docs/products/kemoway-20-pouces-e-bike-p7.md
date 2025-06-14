@@ -145,7 +145,8 @@ Oil &Spring Fourche à suspension, Avec fonction de réglage et de verrouillage,
 
 P7 Guidon de vélo
 
-largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
+<div class='old-text'><span class='removed'>largeur du guidon: 680mm, angle: 18°, augmenter: 20mm</span></div>
+<div class='new-text'><span class='added'>largeur du guidon: 680mm, angle: 18°, Réhausse: 20mm</span></div>
 
 P7 Potence de vélo
 

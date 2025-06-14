@@ -108,15 +108,6 @@ Phare avant 90 lux
 
 Votre sécurité, notre priorité : phare et réflecteur intégrés
 
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
-Page 8
-
 ## Détails du produit
 
 La batterie sera expédiée dans un colis séparé
@@ -145,7 +136,8 @@ SR SUNTOUR， NEX-700C， Avec fonction de suspension et de verrouillage, Distan
 
 K5 Guidon de vélo
 
-largeur du guidon: 680mm, angle: 18°, augmenter: 20mm
+<div class='old-text'><span class='removed'>largeur du guidon: 680mm, angle: 18°, augmenter: 20mm</span></div>
+<div class='new-text'><span class='added'>largeur du guidon: 680mm, angle: 18°, Réhausse: 20mm</span></div>
 
 K5 Potence de vélo
 
