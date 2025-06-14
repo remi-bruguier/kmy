@@ -6,41 +6,11 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-Kemoway K6S vélo électrique - batterie Samsung 720 Wh, moteur 110N.m – Kemoway France
-
-Caractéristiques
-
-Spécifications
-
-Faqs
-
-Kemoway K6S
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Pourquoi K6S
 
-Le vélo électrique K6S est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, offrant aux cyclistes un moyen confortable et facile d'explorer leur environnement.
+<div class='old-text'><span class='removed'>Le vélo électrique K6S est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, offrant aux cyclistes un moyen confortable et facile d'explorer leur environnement.</span></div>
+
+<div class='new-text'><span class='added'>Le vélo électrique K6S est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, permettant aux cyclistes de se déplacer confortablement en ville comme à la campagne.</span></div>
 
 Batterie Samsung
 
@@ -68,7 +38,7 @@ Poids de chargement
 
 ## Batterie certifiée sécurité
 
-Le vélo électrique K5 est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour un conduite détendue et respectueuse de l'environnement.
+<div class='old-text'><span class='removed'>Le vélo électrique K5 est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour un conduite détendue et respectueuse de l'environnement.</span></div><div class='new-text'><span class='added'>Le vélo électrique K6S est livré avec une batterie de 720 Wh certifiée CE. Il offre une énergie fiable pour un conduite détendue et respectueuse de l'environnement.</span></div>
 
 720Wh, capacité de la batterie
 
@@ -107,14 +77,6 @@ Porte bagages arrière Mik
 Phare avant 90 lux
 
 Votre sécurité, notre priorité : phare et réflecteur intégrés
-
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
 
 ## Spécifications
 

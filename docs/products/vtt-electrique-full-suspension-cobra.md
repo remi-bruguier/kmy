@@ -108,15 +108,6 @@ SelleRoyal Selle
 
 Selle VTT ergonomique à rembourrage performant
 
-Page 1
-Page 2
-Page 3
-Page 4
-Page 5
-Page 6
-Page 7
-Page 8
-
 ## Détails du produit
 
 Moteurs, batteries et systèmes de contrôle électroniques
