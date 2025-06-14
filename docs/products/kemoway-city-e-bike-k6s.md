@@ -78,7 +78,10 @@ Le vélo électrique K5 est livré avec une batterie de 720 Wh certifiée CE. Il
 
 Force motrice : 110 N·m
 
-Moteur central puissant 250W (110 N·m) - charges et côtes sans effort
+Moteur central puissant 250W (110 N·m)
+
+<div class='old-text'><span class='removed'>charges et côtes sans effort</span></div>
+<div class='new-text'><span class='added'>gravit les côtes sans effort, même chargé</span></div>
 
 Écran couleur
 
@@ -98,7 +101,8 @@ Fourche SR SUNTOUR modèle NEX-700C. Fonction verrouillage & Débattement 63 mm
 
 Porte bagages arrière Mik
 
-Porte-bagages arrière - montage facile et charge 25 kg
+<div class='old-text'><span class='removed'>Porte-bagages arrière - montage facile et charge 25 kg</span></div>
+<div class='new-text'><span class='added'>Porte-bagages arrière - montage facile et capacité de 25 kg</span></div>
 
 Phare avant 90 lux
 

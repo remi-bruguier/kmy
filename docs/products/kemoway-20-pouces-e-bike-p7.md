@@ -78,7 +78,10 @@ Le vélo électrique P7 est livré avec une batterie de 720 Wh certifiée CE. Il
 
 Force motrice : 110 N·m
 
-Moteur central puissant (110 N·m) - charges et côtes sans effort
+Moteur central puissant (110 N·m)
+
+<div class='old-text'><span class='removed'>charges et côtes sans effort</span></div>
+<div class='new-text'><span class='added'>gravit les côtes sans effort, même chargé</span></div>
 
 Fourche hydraulique
 

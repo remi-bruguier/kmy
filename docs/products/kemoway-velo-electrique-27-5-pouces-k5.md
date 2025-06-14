@@ -6,41 +6,10 @@
 
 <link rel="stylesheet" href="/kmy/assets/css/markdown.css">
 
-Kemoway K5 - Vélo Électrique avec Batterie Samsung 720Wh – Kemoway France
-
-Caractéristiques
-
-Spécifications
-
-Faqs
-
-Kemoway K5
-
-Ajouter au panier
-
-Besoin d'aide?
-
-Notre équipe est à votre écoute du lundi au vendredi. Réponse garantie sous 24h.
-
-Livraison & Expédition
-
-Votre vélo est expédié d'Allemagne en 1-2 jours. Comptez 3-5 jours pour le recevoir chez vous.
-
-Notre politique de retour
-
-Contactez notre service client par e-mail pour organiser le retour d'un article. Nous vous transmettrons l'adresse d'expédition.
-
-Garantie
-
-La batterie et le moteur de votre vélo électrique bénéficient d'une garantie de 24 mois. Pour les autres accessoires, vous trouverez les détails des garanties sur notre page dédiée.
-
-Kemoway en quelques mots
-
-Notre équipe d'experts conçoit et commercialise des vélos électriques 100% conformes aux normes européennes.
-
 ### Pourquoi K5
 
-Le vélo électrique K5 est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, offrant aux cyclistes un moyen confortable et facile d'explorer leur environnement.
+<div class='old-text'><span class='removed'>Le vélo électrique K5 est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, offrant aux cyclistes un moyen confortable et facile d'explorer leur environnement.</span></div>
+<div class='new-text'><span class='added'>Le vélo électrique K5 est un modèle urbain équipé d'un moteur central de 110 N·m. Son autonomie peut atteindre 170 km sur une seule charge, permettant aux cyclistes de se déplacer confortablement en ville comme à la campagne.</span></div>
 
 Batterie Samsung
 
@@ -78,7 +47,10 @@ Le vélo électrique K5 est livré avec une batterie de 720 Wh certifiée CE. Il
 
 Force motrice : 110 N·m
 
-Moteur central puissant 250W (110 N·m) - charges et côtes sans effort
+Moteur central puissant 250W (110 N·m) -
+
+<div class='old-text'><span class='removed'>charges et côtes sans effort</span></div>
+<div class='new-text'><span class='added'>gravit les côtes sans effort, même chargé</span></div>
 
 Écran intégré
 
@@ -102,7 +74,8 @@ Freins hydrauliques Shimano MT200 - un freinage stable et performant
 
 Porte bagages arrière Mik
 
-Porte-bagages arrière - montage facile et charge 25 kg
+<div class='old-text'><span class='removed'>Porte-bagages arrière - montage facile et charge 25 kg</span></div>
+<div class='new-text'><span class='added'>Porte-bagages arrière - montage facile et capacité de 25 kg</span></div>
 
 Phare avant 90 lux
 

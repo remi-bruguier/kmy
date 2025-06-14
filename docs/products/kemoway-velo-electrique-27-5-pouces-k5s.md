@@ -25,7 +25,10 @@ Le VTT électrique K5S est un modèle tout suspendu équipé d'un moteur central
 
 Force motrice : 110 N·m
 
-Moteur central puissant 250W(110 N·m) - charges et côtes sans effort
+Moteur central puissant 250W(110 N·m)
+
+<div class='old-text'><span class='removed'>charges et côtes sans effort</span></div>
+<div class='new-text'><span class='added'>gravit les côtes sans effort, même chargé</span></div>
 
 Écran intégré
 
@@ -49,7 +52,8 @@ SR SUNTOUR X1-BOOST, suspension pneumatique avec verrouillage, course : 120 mm
 
 Porte bagages arrière Mik
 
-Porte-bagages arrière - montage facile et charge 25 kg
+<div class='old-text'><span class='removed'>Porte-bagages arrière - montage facile et charge 25 kg</span></div>
+<div class='new-text'><span class='added'>Porte-bagages arrière - montage facile et capacité de 25 kg</span></div>
 
 Phare avant 90 lux
 

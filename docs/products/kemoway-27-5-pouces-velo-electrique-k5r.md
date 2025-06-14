@@ -71,7 +71,8 @@ Votre sécurité, notre priorité : phare et réflecteur intégrés
 
 Porte bagages arrière Mik
 
-Porte-bagages arrière - montage facile et charge 25 kg
+<div class='old-text'><span class='removed'>Porte-bagages arrière - montage facile et charge 25 kg</span></div>
+<div class='new-text'><span class='added'>Porte-bagages arrière - montage facile et capacité de 25 kg</span></div>
 
 ## Détails du produit
 
